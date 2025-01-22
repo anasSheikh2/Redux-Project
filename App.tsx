@@ -1,1 +1,1 @@
-"Anas Sheikh", "AS"
+"Anas Sheikh"
